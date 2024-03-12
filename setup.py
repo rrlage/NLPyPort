@@ -21,7 +21,7 @@ setup(
 "scipy",
 "singledispatch",
 "six",
-"sklearn",
+"scikit-learn",
 "sklearn-crfsuite",
 "tabulate",
 "tqdm",
